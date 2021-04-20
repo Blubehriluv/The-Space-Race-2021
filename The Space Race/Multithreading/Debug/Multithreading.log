@@ -1,0 +1,3 @@
+﻿  BlastOff.cpp
+C:\Users\taymcken\Documents\GitHub\The-Space-Race-2021\The Space Race\Multithreading\BlastOff.cpp(177,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Multithreading.vcxproj -> C:\Users\taymcken\Documents\GitHub\The-Space-Race-2021\The Space Race\Debug\Multithreading.exe
